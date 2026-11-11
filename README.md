@@ -1,4 +1,4 @@
-# Hi, I'm Om Prakash Kasaraneni
+# Hi, I'm Om Prakash K
 
 ### AWS Cloud and DevOps · London, United Kingdom
 
