@@ -8,6 +8,15 @@ setup instructions, validation records, troubleshooting and cleanup steps.
 
 **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/875d6c5c-4706-4a3e-9152-682a595dbf15/public_url)** · [Explore my AWS portfolio](https://github.com/omprakash2499/aws-cloud-portfolio)
 
+## AWS Certification
+
+<a href="https://www.credly.com/badges/875d6c5c-4706-4a3e-9152-682a595dbf15/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate badge" width="160"></a>
+
+**AWS Certified Solutions Architect – Associate**  
+Issued by Amazon Web Services Training and Certification  
+**Issued:** 3 November 2026 · **Expires:** 3 November 2029  
+[Verify my certification on Credly](https://www.credly.com/badges/875d6c5c-4706-4a3e-9152-682a595dbf15/public_url)
+
 ## Featured projects
 
 | Project | What you can explore |
